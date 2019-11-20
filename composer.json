@@ -1,5 +1,5 @@
 {
-    "name": "mohe/file-system",
+    "name": "mohe/filesystem",
     "description": "for thinkphp6",
     "type": "library",
     "require": {
