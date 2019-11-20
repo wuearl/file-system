@@ -1,0 +1,23 @@
+{
+    "name": "mohe/file-system",
+    "description": "for thinkphp6",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "^6.0.0",
+        "xxtime/flysystem-aliyun-oss": "^1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuliangbo",
+            "email": "wuearl@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "think\\filesystem\\": "src/"
+        }
+    }
+}
